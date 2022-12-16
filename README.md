@@ -1,2 +1,2 @@
-# inTalk101.github.io
-InTalk open innovation for digital solutions
+# inTalk 101
+InTalk. Open innovation for digital solutions.
