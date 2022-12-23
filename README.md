@@ -1,3 +1,3 @@
-#InTalk. Open innovation for digital solutions.
+# InTalk. Open innovation for digital solutions.
 
 Bring your thoughts!
